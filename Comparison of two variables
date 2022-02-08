@@ -1,0 +1,30 @@
+- 👋 Hi, I’m @Divya-karanam
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+Divya-karanam/Divya-karanam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+a=5
+b=8
+a>b
+Print('5 is greaterthan 8')
+Print('false')
+a<b
+Print('5 is lessthan 8')
+Print ('true')
+a>=b
+Print('5 is greaterthan or equal to 8')
+Print('false')
+a<=b
+Print('5 is lessthan or equal to 8')
+Print('true')
+a==b
+Print('a is equal to b')
+Print('false')
+a!=b
+Print('a is not equal to b')
+Print('false')
